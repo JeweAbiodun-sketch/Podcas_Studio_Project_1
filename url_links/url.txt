@@ -2,3 +2,5 @@ https://en.wikipedia.org/wiki/Artificial_intelligence .
 https://www.ibm.com/consulting/ai .
 
 https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai 
+https://notebooklm.google.com/
+https://www.anthropic.com/engineering/april-23-postmortem
