@@ -1,0 +1,7 @@
+.env
+.venv
+__pycache__/
+*.pyc
+*.pyo
+
+    Podcas_Studio_Project_1/
