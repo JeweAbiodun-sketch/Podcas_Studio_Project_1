@@ -17,7 +17,7 @@ Streamlined Pipeline:- Using a unified architecture (`pipeline.py`) that handles
 * `tts_utils.py` - Manages the text-to-speech audio generation.
 * `utils.py` - Helper functions used across the project.
 * `.env` - Environment variables (API keys) needed to run the LLMs and TTS services *(Note: This file is ignored by Git for security)*.
-* `Post_Project_review` - Review to scope or framing that would make the project more generalizable or client-ready.
+* `Post_Project_review.md` - Review to scope or framing that would make the project more generalizable or client-ready.
 
 #  Getting Started
 
