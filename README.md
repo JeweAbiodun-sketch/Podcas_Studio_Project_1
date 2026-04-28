@@ -17,11 +17,12 @@ Streamlined Pipeline:- Using a unified architecture (`pipeline.py`) that handles
 * `tts_utils.py` - Manages the text-to-speech audio generation.
 * `utils.py` - Helper functions used across the project.
 * `.env` - Environment variables (API keys) needed to run the LLMs and TTS services *(Note: This file is ignored by Git for security)*.
+* `Post_Project_review` - Review to scope or framing that would make the project more generalizable or client-ready.
 
 #  Getting Started
 
 # Prerequisites
-1. Ensure you have Python installed. It is highly recommended to use a virtual environment to avoid package conflicts.
+1. Ensure you have at least Python 3.8 and above installed. It is highly recommended to use a virtual environment to avoid package conflicts.
 
 2. Ensure u clone the repository:
    ```bash
